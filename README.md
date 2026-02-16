@@ -23,24 +23,32 @@
 
 ---
 
-### 📫 Connect with Me
+<h3 align="left">Connect with Me:</h3>
 <p>
+  <!-- Gmail -->
   <a href="mailto:mahammedmagdy85@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohammed-magdy-7b904926a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/share/17ax6v7W5n/?mibextid=wwXIfr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/mahammedmagdy85" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/MohammedMagdyy/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="MohammedMagdyy" height="30" width="40" />
-</a>
 
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mohammed-magdy-7b904926a" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/17ax6v7W5n/?mibextid=wwXIfr" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30"/>
+  </a>
+
+  <!-- Hackerrank -->
+  <a href="https://www.hackerrank.com/profile/mahammedmagdy85" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/MohammedMagdyy/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="30"/>
+  </a>
 </p>
 
 ---
